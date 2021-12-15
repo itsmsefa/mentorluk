@@ -1,0 +1,6 @@
+git init //dosyada .git dosyasının oluşmasını sağlar
+git status //izi olusmamıs dosyalar gozukur
+git add //dosyayı bilgisayarda baska bir yere kaydeder
+git commit //dosyada degisiklik yaptıgımızı belirtiriz
+git log  //eski commitleri görüntüler
+git push //branchteki dosyaları github a yükler
